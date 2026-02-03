@@ -1,5 +1,5 @@
 # PATHS – Predictive AI Traffic Handling System
-**PATHS (Predictive Analysis of Traffic Handling Systems)** is a data-driven urban traffic analytics framework that combines computer vision, time-series forecasting, and statistical anomaly detection to support proactive traffic monitoring and congestion analysis.
+PATHS (Predictive Analysis of Traffic Handling Systems) is a data-driven urban traffic analytics framework that combines computer vision, time-series forecasting, and statistical anomaly detection to support proactive traffic monitoring and congestion analysis.
 The system processes CCTV traffic footage to extract vehicle counts, constructs state-level time-series signals, and predicts short-term traffic evolution using recurrent neural networks. An anomaly detection layer identifies spikes, drops, and outliers in traffic flow to assist strategic traffic planning.
 ---
 ## Key Features
